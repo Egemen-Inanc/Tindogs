@@ -166,7 +166,7 @@ color: #ef8172;
 .footer-icon{
   padding:50px;
 }
-@media (min-width:600px){
+@media (max-width:600px){
   #title{
    text-align: center;
   }
