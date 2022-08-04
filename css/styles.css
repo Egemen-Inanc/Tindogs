@@ -166,7 +166,7 @@ color: #ef8172;
 .footer-icon{
   padding:50px;
 }
-@media (max-width:1028px){
+@media (max-width:768px){
   #title{
    text-align: center;
   }
@@ -180,7 +180,7 @@ color: #ef8172;
     width: 70%;
   }
 }
-@media (max-width:600px){
+@media (max-width:480px){
  #title{
   text-align: center;
  }
