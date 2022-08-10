@@ -195,7 +195,7 @@ color: #ef8172;
 
   }
 }
-@media (max-width:414px){
+@media (min-width:280px) and (max-width:414px){
   h3{
       font-family: 'Montserrat', sans-serif;
       font-weight: 900;
